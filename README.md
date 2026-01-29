@@ -42,9 +42,6 @@ Funksjonalitet:
 - Endre status (pending / approved / rejected)
 - Slette booking
 
-
 ## Arbeidsmetode
-Prosjektet planlegges og følges opp i GitHub Projects ved hjelp av Kanban-board.
-User stories og oppgaver oppdateres fortløpende med status (Todo, In progress, Done).
-
-Sprintene er på 2 uker, med korte standups og retrospektiv etter hver sprint.
+Prosjektet planlegges og følges opp i GitHub Projects ved hjelp av Kanban-board med status (Todo, In progress, Done).
+Sprintene er på 2 uker, med korte standups.
