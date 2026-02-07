@@ -12,7 +12,7 @@ Alle sider skal støtte full CRUD-funksjonalitet (Create, Read, Update, Delete).
 
 ## Sider og ansvarsfordeling
 
-### Brukerprofil – Min profil
+### Brukerprofil – Min profil (hovedansvar - Jostein)
 **API:** users  
 **Ansvar:** Student A  
 
@@ -22,7 +22,7 @@ Funksjonalitet:
 - Legge til, redigere og slette hunder
 - Slette brukerprofil
 
-### Finn hundepasser
+### Finn hundepasser (hovedansvar - Kristina)
 **API:** petSitters  
 **Ansvar:** Student B  
 
@@ -32,7 +32,7 @@ Funksjonalitet:
 - Vise detaljer om valgt hundepasser
 - Opprette, redigere og slette hundepassere
 
-### Mine bookinger
+### Mine bookinger (hovedansvar - Maryna)
 **API:** bookings  
 **Ansvar:** Maryna Tryus 
 
