@@ -45,3 +45,11 @@ Funksjonalitet:
 ## Arbeidsmetode
 Prosjektet planlegges og følges opp i GitHub Projects ved hjelp av Kanban-board med status (Todo, In progress, Done).
 Sprintene er på 2 uker, med korte standups.
+
+## Repository
+GitHub repository:  
+https://github.com/MarynaTryus/Potepass
+
+## Project board
+GitHub Project – Potepass 
+https://github.com/orgs/MarynaTryus/projects/1
