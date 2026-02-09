@@ -14,7 +14,8 @@ Alle sider skal støtte full CRUD-funksjonalitet (Create, Read, Update, Delete).
 
 ### Brukerprofil – Min profil (hovedansvar - Jostein)
 **API:** users  
-**Ansvar:** Student A  
+**Ansvar:** Jostein Westrum 
+**Reserveansvar:** Kristina Birkeli
 
 Funksjonalitet:
 - Vise brukerens informasjon
@@ -24,7 +25,8 @@ Funksjonalitet:
 
 ### Finn hundepasser (hovedansvar - Kristina)
 **API:** petSitters  
-**Ansvar:** Student B  
+**Ansvar:** Kristina Birkeli
+**Reserveansvar:** Maryna Tryus
 
 Funksjonalitet:
 - Vise liste over hundepassere
@@ -35,6 +37,7 @@ Funksjonalitet:
 ### Mine bookinger (hovedansvar - Maryna)
 **API:** bookings  
 **Ansvar:** Maryna Tryus 
+**Reserveansvar:** Jostein Westrum 
 
 Funksjonalitet:
 - Opprette og redigere booking
